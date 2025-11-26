@@ -1,3 +1,7 @@
+# Added features
+* "Open", "Save", "Save As…"
+* Display open file name in window title
+  
 # File Management with Tauri 2.0 Using Rust
 When using **Tauri 2.0**, for security reasons, the app does not have access to files but requires the use of its `fs` API or Rust's `std::fs` module. I have struggled to get the `fs` API to work so this project is meant to explore.
 
