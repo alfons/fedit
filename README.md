@@ -7,7 +7,7 @@ When using **Tauri 2.0**, for security reasons, the app does not have access to 
 
 [Read this blog post](https://quentinwach.com/blog/2024/11/26/files-in-tauri-v2.html) for more details about this code and understand how to get file-manegement in Tauri 2.0 working.
 
-![alt text](image.png)
+![fedit_filename](https://github.com/user-attachments/assets/661d55cc-28e6-420d-96aa-32095798c317)
 
 Run the app:
 ```
